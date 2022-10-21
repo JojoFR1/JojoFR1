@@ -6,3 +6,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&layout=compact&theme=codeSTACKr" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jojofr1&theme=codeSTACKr" />
+</a>

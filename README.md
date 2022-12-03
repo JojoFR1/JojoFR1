@@ -1,5 +1,4 @@
 # Hi, I'm Jojo!
-![My Discord](https://discord-readme-badge.vercel.app/api?id=354603099161362433)
 
 ## 👋🏻 About me
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/) [![wakatime](https://wakatime.com/badge/user/412f8907-e607-46cc-8237-17259afcdc20.svg)](https://wakatime.com/@412f8907-e607-46cc-8237-17259afcdc20)

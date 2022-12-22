@@ -3,7 +3,7 @@
 
 <h2 align="center">👋🏻About me</h2>
 
-<p align ="center">- 📚 I'm currently learning Python, my next goal is C *(or C#/C++)* and Java. </p>
+<p align ="center">- 📚 I'm currently learning Python, my next goal is C (or C#/C++) and Java. </p>
 
 <p align ="center">- 🖥️ I don't have any job for now (and can't really have one). </p>
 
@@ -18,14 +18,14 @@
 <h2 align="center">💻Languages and tools</h2>
 <div align ="center">
   <a href="https://skillicons.dev">
-    <img align ="center" src="https://skillicons.dev/icons?i=python,vscode,discord,bots,github,git"/>
+    <img align ="center" src="https://skillicons.dev/icons?i=python,js,html,vscode,discord,bots,github,git"/>
   </a>
 </div>
 
 <h2 align="center">📊My GitHub Stats</h2>
 
 <div align ="center">
-  <a href="https://github.com/JojoFR11/">
+  <a href="https://github.com/JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=codeSTACKr" />
   </a>
   <a href="https://wakatime.com/@JojoFR1">

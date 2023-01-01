@@ -11,7 +11,8 @@
 
 <h2 align="center">📝Currently working on</h2>
 
-<p align="center">- <a href="https://github.com/JojoFR1/Stellaria-Bot">Stellaria:</a> A bot for discord</p>
+<p align="center">- <a href="https://github.com/JojoFR1/Stellaria-Bot">Stellaria:</a> A bot for discord (when I feel like it)</p>
+<p align="center">- <a href="https://github.com/JojoFR1/Stellar-Industries">Stellar Industries:</a> A mod for Mindustry, just for fun</p>
 
 <p align="center"> - . . . </p>
 

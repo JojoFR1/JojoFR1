@@ -11,15 +11,16 @@
 
 <h2 align="center">📝Currently working on</h2>
 
+<p align="center">- <a href="https://github.com/FredyJabe/aeyama">Aeyama: The New World:</a> A mod for Mindustry made by FredyJabe that I help with!</p>
 <p align="center">- <a href="https://github.com/JojoFR1/Stellaria-Bot">Stellaria:</a> A bot for discord (when I feel like it)</p>
-<p align="center">- <a href="https://github.com/JojoFR1/Stellar-Industries">Stellar Industries:</a> A mod for Mindustry, just for fun</p>
+<p align="center">- <a href="https://github.com/JojoFR1/Stellar-Industries"><strike>Stellar Industries:</a> A mod for Mindustry, just for fun</strike></p>
 
 <p align="center"> - . . . </p>
 
 <h2 align="center">💻Languages and tools</h2>
 <div align ="center">
   <a href="https://skillicons.dev">
-    <img align ="center" src="https://skillicons.dev/icons?i=python,js,html,vscode,discord,bots,github,git"/>
+    <img align ="center" src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,js,html,bots"/>
   </a>
 </div>
 

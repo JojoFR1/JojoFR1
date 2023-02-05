@@ -3,7 +3,7 @@
 
 <h2 align="center">👋🏻About Me</h2>
 
-<p align ="center">- 📚 I'm currently learning complex Python and basic C++, my next goal is maybe Java. </p>
+<p align ="center">- 📚 I'm currently learning complex Python and basic Java, my next goal is maybe C#. </p>
 
 <p align ="center">- 🖥️ I don't have any job for now (and can't really have one, too young). </p>
 
@@ -13,8 +13,9 @@
 
 <h2 align="center">📝Working On</h2>
 
-<p align="center">- <a href="https://github.com/FredyJabe/aeyama">Aeyama: The New World:</a> A mod for Mindustry made by FredyJabe that I help with!</p>
-<p align="center">- <a href="https://github.com/JojoFR1/StellariaBot">Stellaria:</a> A bot for discord (when I feel like it)</p>
+<p align="center">- <a href="https://github.com/FredyJabe/aeyama">Aeyama: The New World:</a> A mod for <b>Mindustry</b> made by FredyJabe that I help with!</p>
+<p align="center">- <a href="https://github.com/JojoFR1/PyJo">PyJo:</a> A custom programming language made with <b>Python</b>, I do it for fun when I'm bored. Still very basic for now.</p>
+<p align="center">- <a href="https://github.com/JojoFR1/StellariaBot">Stellaria:</a> A bot for Discord (when I feel like it)</p>
 <p align="center"> - . . . </p>
 
 <h2 align="center">💻Tools & Languages</h2>

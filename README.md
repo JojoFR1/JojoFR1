@@ -21,7 +21,7 @@
 <h2 align="center">💻Tools & Languages</h2>
 <div align ="center">
   <a href="https://skillicons.dev">
-    <img align ="center" src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,cpp"/>
+    <img align ="center" src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,java"/>
   </a>
 </div>
 

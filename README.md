@@ -14,30 +14,34 @@
 
 <h2 align="center">📝Working On</h2>
 
+<div align="center">
 <a href="https://github.com/FredyJabe/aeyama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredyjabe&repo=aeyama&show_owner=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fredyjabe&repo=aeyama&show_owner=true&theme=transparent">
 </a>
+</div>
 
 <p align="center"> . . . </p>
 
 <h2 align="center">💻Tools & Languages</h2>
 <div align ="center">
   <a href="https://skillicons.dev">
-    <img align ="center" src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,java"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,java"/>
   </a>
 </div>
 
 <h2 align="center">📊My Coding Stats</h2>
 
+<div align="center">
 <a href="https://github.com/JojoFR1/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=transparent" />
 </a>
 <a href="https://wakatime.com/@JojoFR1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&theme=transparent" />
 </a>
 <a href="https://github.com/JojoFR1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&theme=transparent" />
 </a>
 <a href="https://github.com/JojoFR1">
-  <img align="center" src="https://streak-stats.demolab.com?user=jojofr1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF">
+  <img src="https://streak-stats.demolab.com?user=jojofr1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF">
 </a>
+</div>

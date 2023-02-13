@@ -3,7 +3,7 @@
 
 <h2 align="center">👋🏻About Me</h2>
 
-<p align="center">- 📚 I'm currently learning intermediate Python, basic Java and maybe some Web Development. Next goal are for game development, maybe Jave or something like C#. </p>
+<p align="center">- 📚 I'm currently learning intermediate Python, basic Java and maybe some Web Development. Next goal are for game development, maybe Java or something like C#. </p>
 
 <p align="center">- 🎨 I have a really big imagination and I love creating my own things, I always wanted to make my own things (videogames, programming language, Discord bot...) but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
 

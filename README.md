@@ -1,6 +1,5 @@
 <h1 align="center"> Hi, I'm Jojo! </h1>
 
-
 <h2 align="center">👋🏻About Me</h2>
 
 <p align="center">- 📚 I'm currently learning intermediate Python, basic Java and maybe some Web Development. Next goal are for game development, maybe Java or something like C#. </p>
@@ -15,8 +14,11 @@
 
 <h2 align="center">📝Working On</h2>
 
-<p align="center">- <a href="https://github.com/FredyJabe/aeyama">Aeyama: The New World:</a> A mod for <b>Mindustry</b> made by FredyJabe that I help with!</p>
-<p align="center"> - . . . </p>
+<a href="https://github.com/FredyJabe/aeyama">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fredyjabe&repo=aeyama&show_owner=true&theme=transparent">
+</a>
+
+<p align="center"> . . . </p>
 
 <h2 align="center">💻Tools & Languages</h2>
 <div align ="center">
@@ -27,14 +29,15 @@
 
 <h2 align="center">📊My Coding Stats</h2>
 
-<div align ="center">
-  <a href="https://github.com/JojoFR1/">
-    <img src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=codeSTACKr" />
-  </a>
-  <a href="https://wakatime.com/@JojoFR1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&theme=codeSTACKr" />
-  </a>
-  <a href="https://github.com/JojoFR1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&theme=codeSTACKr" />
-  </a>
-</div>
+<a href="https://github.com/JojoFR1/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=transparent" />
+</a>
+<a href="https://wakatime.com/@JojoFR1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&theme=transparent" />
+</a>
+<a href="https://github.com/JojoFR1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&theme=transparent" />
+</a>
+<a href="https://github.com/JojoFR1">
+  <img align="center" src="https://streak-stats.demolab.com?user=jojofr1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF">
+</a>

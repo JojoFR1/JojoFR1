@@ -1,15 +1,17 @@
-# Hi, I'm Jojo!
+<h1 align="center"> Hi, I'm Jojo! </h1>
 
 
 <h2 align="center">👋🏻About Me</h2>
 
-<p align ="center">- 📚 I'm currently learning complex Python and maybe basic Java, my next goal is maybe C#, Lua or something cool to make games. </p>
+<p align="center">- 📚 I'm currently learning intermediate Python, basic Java and maybe some Web Development. Next goal are for game development, maybe Jave or something like C#. </p>
 
-<p align ="center">- 🖥️ I don't have any job for now (and can't really have one, too young). </p>
+<p align="center">- 🎨 I have a really big imagination and I love creating my own things, I always wanted to make my own things (videogames, programming language, Discord bot...) but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
 
-<p align ="center">- 🎮 I really love videogames, I always wanted to make one (and maybe make it my future job)... I'm just bad at spritting. </p>
+<p align="center">- 🎮 I really love videogames, I always wanted to make one (and maybe make it my future job)... I'm just bad at spritting and some other shit. </p>
 
-<p align ="center">- and that's it I don't have any more idea! </p>
+<p align="center">- 🖥️ I don't have any job for now (and can't really have one, too young). </p>
+
+<p align="center">- ... and that's it I don't have any more idea! </p>
 
 <h2 align="center">📝Working On</h2>
 

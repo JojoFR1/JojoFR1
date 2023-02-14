@@ -37,3 +37,4 @@
   <a href="https://github.com/JojoFR1">
     <img src="https://streak-stats.demolab.com?user=jojofr1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF">
   </a>
+</div>

@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>👋🏻About Me</h2>
-  <p>- 📚 I'm currently learning intermediate Python, basic Java and maybe some Web Development. Next goal are for game development, maybe Java or something like C#. </p>
+  <p>- 📚 I'm currently learning some C++ and improving my Python, for now I put Java on the side. No goal for now, I want to focus on C++ and game development. </p>
 
   <p>- 🎨 I have a really big imagination and I love creating my own things, I always wanted to make my own things (videogames, programming language, Discord bot...) but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
 
@@ -21,7 +21,7 @@
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,java"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,cpp,java"/>
   </a>
 
 <h2>📊My Coding Stats</h2>

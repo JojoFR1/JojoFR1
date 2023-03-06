@@ -4,7 +4,7 @@
 <h2>👋🏻About Me</h2>
   <p>- 📚 I'm currently learning some C++ and improving my Python, for now I put Java on the side. No goal for now, I want to focus on C++ and game development. </p>
 
-  <p>- 🎨 I have a really big imagination and I love creating my own things, I always wanted to make my own things (videogames, programming language, Discord bot...) but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
+  <p>- 🎨 I have a really big imagination and I love creating my own things from scratch, like videogames, programming language, etc..., but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
 
   <p>- 🎮 I really love videogames, I always wanted to make one (and maybe make it my future job)... I'm just bad at spritting and some other shit. </p>
 
@@ -13,6 +13,9 @@
   <p>- ... and that's it I don't have any more idea! </p>
 
 <h2>📝Working On</h2>
+
+  <p> - Learning C++ </p>
+
   <a href="https://github.com/FredyJabe/aeyama">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fredyjabe&repo=aeyama&show_owner=true&theme=transparent">
   </a>
@@ -21,7 +24,7 @@
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,cpp,java"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,java,cpp"/>
   </a>
 
 <h2>📊My Coding Stats</h2>

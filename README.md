@@ -16,6 +16,9 @@
 
   <p> - Learning C++ </p>
 
+  <a href="https://github.com/JojoFR1/IMEditor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=imeditor&show_owner=true&theme=transparent">
+  </a>
   <a href="https://github.com/FredyJabe/aeyama">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fredyjabe&repo=aeyama&show_owner=true&theme=transparent">
   </a>

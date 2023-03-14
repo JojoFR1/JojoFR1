@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>👋🏻About Me</h2>
-  <p>- 📚 I'm currently learning some C++ and improving my Python, for now I put Java on the side. No goal for now, I want to focus on C++ and game development. </p>
+  <p>- 📚 I'm currently learning some Java and improving my Python. Next I plan on learning C++ or maybe Rust, my goal is to learn something that could help me go into game development. </p>
 
   <p>- 🎨 I have a really big imagination and I love creating my own things from scratch, like videogames, programming language, etc..., but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
 

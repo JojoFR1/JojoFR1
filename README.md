@@ -4,9 +4,9 @@
 <h2>👋🏻About Me</h2>
   <p>- 📚 I'm currently learning some Java and improving my Python. Next I plan on learning Rust or maybe C++, my goal is to learn something that could help me go into game development. </p>
 
-  <p>- 🎨 I have a really big imagination and I love creating my own things from scratch, like videogames, programming language, etc..., but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
+  <p>- 🎨 I have a really big imagination and I love creating my own things from scratch, like videogames, programming languages, etc..., but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
 
-  <p>- 🎮 I really love videogames, I always wanted to make one (and maybe make it my future job)... I'm just bad at spritting and some other shit. </p>
+  <p>- 🎮 I really love videogames, I've always wanted to make one (and maybe make it my future job)... I'm just bad at spriting and some other stuff. </p>
 
   <p>- 🖥️ I don't have any job for now (and can't really have one, too young). </p>
 

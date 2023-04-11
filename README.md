@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>👋🏻About Me</h2>
-  <p>- 📚 I'm currently learning some Java and improving my Python. Next I plan on learning Rust or maybe C++, my goal is to learn something that could help me go into game development. </p>
+  <p>- 📚 I'm currently upgrading my Java skill. Next I plan on learning C++ probably, my goal is to learn something that could help me get into game development. </p>
 
   <p>- 🎨 I have a really big imagination and I love creating my own things from scratch, like videogames, programming languages, etc..., but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
 
@@ -14,8 +14,8 @@
 
 <h2>📝Working On</h2>
 
-<!--   <a href="https://github.com/JojoFR1/IMEditor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=imeditor&show_owner=true&theme=transparent">
+<!--   <a href="https://github.com/JojoFR1/REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=REPO&show_owner=true&theme=transparent">
   </a> -->
   <br>
   <a href="https://github.com/FredyJabe/aeyama">
@@ -26,20 +26,20 @@
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,bots,python,java"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,html,css,python,java,cpp"/>
   </a>
 
 <h2>📊My Coding Stats</h2>
   <a href="https://github.com/JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=transparent" />
   </a>
-  <a href="https://github.com/JojoFR1">
+  <a href="https://github.com/JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&theme=transparent" />
   </a>
-  <a href="https://wakatime.com/@JojoFR1">
+  <a href="https://wakatime.com/@JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&layout=compact&theme=transparent" />
   </a>
-  <a href="https://github.com/JojoFR1">
+  <a href="https://github.com/JojoFR/1">
     <img src="https://streak-stats.demolab.com?user=jojofr1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF">
   </a>
 </div>

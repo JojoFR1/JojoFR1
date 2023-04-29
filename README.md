@@ -2,13 +2,13 @@
 
 <div align="center">
 <h2>👋🏻About Me</h2>
-  <p>- 📚 I'm currently upgrading my Java skill. Next I plan on learning C++ probably, my goal is to learn something that could help me get into game development. </p>
+  <p>- 📚 I'm currently learning and focusing C++ and I'm also starting to get into game development. </p>
 
-  <p>- 🎨 I have a really big imagination and I love creating my own things from scratch, like videogames, programming languages, etc..., but it's really time and resources consuming, and I need way more knowledge than I have now.</p>
+  <p>- 🎨 I have a really big imagination and I love creating my own things from scratch, but it takes TON of time and knowledge sadly. </p>
 
-  <p>- 🎮 I really love videogames, I've always wanted to make one (and maybe make it my future job)... I'm just bad at spriting and some other stuff. </p>
+  <p>- 🎮 I really love videogames and I've always wanted to make one (and maybe make it my future job)... I'm just bad at spriting and some other stuff. </p>
 
-  <p>- 🖥️ I don't have any job for now (and can't really have one, too young). </p>
+  <p>- 🖥️ I don't have any job for now, can't really have one for some legal reasons, but I would like to be a game developer, or at least a developer. </p>
 
   <p>- ... and that's it I don't have any more idea! </p>
 

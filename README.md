@@ -32,10 +32,10 @@
 <h2>📊My Coding Stats</h2>
   <a href="https://github.com/JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=transparent" />
-  </a>
+<!--  </a>
   <a href="https://github.com/JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&theme=transparent" />
-  </a>
+  </a> ->
   <a href="https://wakatime.com/@JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&layout=compact&theme=transparent" />
   </a>

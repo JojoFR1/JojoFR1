@@ -25,8 +25,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=Xelaria&show_owner=true&theme=transparent">
   </a>
   <br>
-  <a href="https://github.com/FredyJabe/aeyama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fredyjabe&repo=aeyama&show_owner=true&theme=transparent">
+  <a href="https://github.com/Aeyama-Mod/aeyama">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aeyama-mod&repo=aeyama&show_owner=true&theme=transparent">
   </a>
 
   <p> . . . </p>

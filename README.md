@@ -3,10 +3,8 @@
 <div align="center">
 <h2>ℹ️About Me</h2>
   <p> - 👤 I'm Jojo, a 16 years old French boy that loves to be discreet and that is passionate about Computer and Programming.</p>
-  
-  <p>- 📚 I'm currently improving my Java skill and focusing on Game Development. </p>
-  
-  <p>- 🖥️ I know some Python (my first language) and using Java as my main language, maybe some C++ later. My goal is to make Android games, not really for publishing them, to learn, have fun and make it possibly my future job.</p>
+    
+  <p>- 🖥️ I know some Python and Java, currently learning Rust. My goal is to make games, not really for publishing them, to learn, have fun and make it possibly my future job.</p>
 
   <p>- 🎨 I'm a creative guy with a pretty big imagination sometimes. I also love creating my own things and managing projects! </p>
 
@@ -33,16 +31,13 @@
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle,rust"/>
   </a>
 
 <h2>📊My Coding Stats</h2>
   <a href="https://github.com/JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=transparent" />
-<!--  </a>
-  <a href="https://github.com/JojoFR1/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojofr1&theme=transparent" />
-  </a> -->
+</a>
   <a href="https://wakatime.com/@JojoFR1/">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&layout=compact&theme=transparent" />
   </a>

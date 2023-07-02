@@ -35,13 +35,13 @@
   </a>
 
 <h2>📊My Coding Stats</h2>
-  <a href="https://github.com/JojoFR1/">
+  <a href="https://github.com/JojoFR1">
     <img src="https://github-readme-stats.vercel.app/api?username=jojofr1&show_icons=true&include_all_commits=true&theme=transparent" />
 </a>
-  <a href="https://wakatime.com/@JojoFR1/">
+  <a href="https://wakatime.com/@JojoFR1">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@jojofr1&layout=compact&theme=transparent" />
   </a>
-  <a href="https://github.com/JojoFR1/">
+  <a href="https://github.com/JojoFR1">
     <img src="https://streak-stats.demolab.com?user=jojofr1&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF">
   </a>
 </div>

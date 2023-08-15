@@ -19,12 +19,16 @@
 <!--   <a href="https://github.com/JojoFR1/REPO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=REPO&show_owner=true&theme=transparent">
   </a> -->
+  <a href="https://github.com/Aeyama-Mod/aeyama">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aeyama-mod&repo=aeyama&show_owner=true&theme=transparent">
+  </a>
+  <br>
   <a href="https://github.com/JojoFR1/Nebuleria">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=Nebuleria&show_owner=true&theme=transparent">
   </a>
   <br>
-  <a href="https://github.com/Aeyama-Mod/aeyama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aeyama-mod&repo=aeyama&show_owner=true&theme=transparent">
+  <a href="https://github.com/JojoFR1/StellariaBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=stellariabot&show_owner=true&theme=transparent">
   </a>
 
   <p> . . . </p>

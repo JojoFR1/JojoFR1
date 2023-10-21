@@ -31,7 +31,7 @@
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle,rust"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle,rust,cpp"/>
   </a>
 
 <h2>📊My Coding Stats</h2>

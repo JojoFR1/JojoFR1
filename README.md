@@ -4,7 +4,7 @@
 <h2>ℹ️About Me</h2>
   <p> - 👤 I'm Jojo, a 16 years old French boy that loves to be discreet and that is passionate about Computer and Programming.</p>
     
-  <p>- 🖥️ I know some Python and Java, currently learning Rust. My goal is to make games, not really for publishing them, to learn, have fun and make it possibly my future job.</p>
+  <p>- 🖥️ I know some Python, Java, Rust and C++. I'm currently focusing on C++ Game Development and my goal is to make games, not really for publishing them, to learn, have fun and make it possibly my future job.</p>
 
   <p>- 🎨 I'm a creative guy with a pretty big imagination sometimes. I also love creating my own things and managing projects! </p>
 
@@ -23,12 +23,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aeyama-mod&repo=aeyama&show_owner=true&theme=transparent">
   </a>
   <br>
-  <a href="https://github.com/JojoFR1/Nebuleria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=Nebuleria&show_owner=true&theme=transparent">
-  </a>
-  <br>
-  <a href="https://github.com/JojoFR1/StellariaBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=stellariabot&show_owner=true&theme=transparent">
+  <a href="https://github.com/JojoFR1/Stellaria">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=Stellaria&show_owner=true&theme=transparent">
   </a>
 
   <p> . . . </p>

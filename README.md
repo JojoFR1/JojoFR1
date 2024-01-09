@@ -2,7 +2,7 @@
 
 <div align="center">
 <h2>ℹ️About Me</h2>
-  <p> - 👤 I'm Jojo, a 16 years old French boy that loves to be discreet and that is passionate about Computer and Programming.</p>
+  <p> - 👤 I'm Jojo, a 17 years old French boy that loves to be discreet and that is passionate about Computer and Programming.</p>
     
   <p>- 🖥️ I know some Python, Java, Rust and C++. I'm currently focusing on C++ Game Development and my goal is to make games, not really for publishing them, to learn, have fun and make it possibly my future job.</p>
 

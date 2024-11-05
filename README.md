@@ -19,19 +19,12 @@
 <!--   <a href="https://github.com/JojoFR1/REPO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=REPO&show_owner=true&theme=transparent">
   </a> -->
-  <a href="https://github.com/Liplum/MultiCrafterLib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=liplum&repo=MultiCrafterLib&show_owner=true&theme=transparent">
-  </a>
-  <br>
-  <a href="https://github.com/Aeyama-Mod/aeyama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aeyama-mod&repo=aeyama&show_owner=true&theme=transparent">
-  </a>
 
-  <p> . . . </p>
+  <p> Private things. </p>
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle,rust,cpp"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle,rust,cpp,godot"/>
   </a>
 
 <h2>📊My Coding Stats</h2>

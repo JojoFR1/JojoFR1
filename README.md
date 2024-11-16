@@ -20,7 +20,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=REPO&show_owner=true&theme=transparent">
   </a> -->
 
-  <p> Private things. </p>
+   <a href="https://github.com/JojoFR1/Joseta">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=Joseta&show_owner=true&theme=transparent">
+  </a>
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">

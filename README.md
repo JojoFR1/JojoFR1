@@ -26,7 +26,7 @@
 
 <h2>💻Tools & Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle,rust,cpp,godot"/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord,python,java,gradle,cpp,godot"/>
   </a>
 
 <h2>📊My Coding Stats</h2>

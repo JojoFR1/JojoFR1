@@ -2,15 +2,15 @@
 
 <div align="center">
 <h2>ℹ️About Me</h2>
-  <p> - 👤 I'm Jojo, a 18 years old French boy that loves to be discreet and that is passionate about Computer and Programming.</p>
+  <p> - 👤 I'm Jojo, a 18 year old French boy that loves to be discreet and that is passionate about Computer and Programming.</p>
     
-  <p>- 🖥️ I know some Python, Java, Rust and C++. I'm currently trying out the Godot Engine.</p>
+  <p>- 🖥️ I know some Python, Java and C++. I'm currently trying out the Godot Engine.</p>
 
   <p>- 🎨 I'm a creative guy with a pretty big imagination sometimes. I also love creating my own things and managing projects! </p>
 
   <p>- 🎮 I love videogames and I've always wanted to make some! I don't have much experience with PC games but I do with Android and Console (Nintendo) games!</p>
 
-  <p>- 💼 I don't have any a job for now, and can't really have one, but I would like to be a game developer, or at least a developer of some kind. </p>
+  <p>- 💼 I don't have any a job for now, but I would like to be a game developer, or at least a developer of some kind. </p>
 
   <p>- ... and that's it for now, I don't have any more idea! </p>
 

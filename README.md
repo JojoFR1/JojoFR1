@@ -7,14 +7,14 @@
 <h2>📝Working On</h2>
 
 <!--   <a href="https://github.com/JojoFR1/REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=REPO&show_owner=true&theme=transparent">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jojofr1&repo=REPO&show_owner=true&theme=transparent">
   </a> -->
 
    <a href="https://github.com/JojoFR1/Joseta">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jojofr1&repo=Joseta&show_owner=true&theme=transparent">
   </a>
    <a href="https://github.com/JojoFR1/MultiCrafter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jojofr1&repo=MultiCrafter&show_owner=true&theme=transparent">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jojofr1&repo=MultiCrafter&show_owner=true&theme=transparent">
   </a>
 
 <h2>💻Tools & Languages</h2>

@@ -12,7 +12,7 @@
 
    <a href="https://github.com/JojoFR1/Joseta">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jojofr1&repo=Joseta&show_owner=true&theme=transparent">
-  </a>
+  </a> <br>
    <a href="https://github.com/JojoFR1/MultiCrafter">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=jojofr1&repo=MultiCrafter&show_owner=true&theme=transparent">
   </a>
